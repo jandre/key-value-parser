@@ -24,10 +24,9 @@ parser.on('end', function(data) {
   console.log("got:", data);
 });
 
-```
+// ouputs: { hello: 'you', big: 'beautiful and lovely', bear: 'friend' }
 
-    $ key-value-parser (master*) $ node tests/test.js 
-    $ got: { hello: 'you', big: 'beautiful and lovely', bear: 'friend' }
+```
 
 ### Debug logging
 
