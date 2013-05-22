@@ -1,6 +1,6 @@
 # Key Value Parser
 
-Simple library to do key value parsing. 
+Simple nodejs library to do key value parsing. 
 
 ## Installation
 
