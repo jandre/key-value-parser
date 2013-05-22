@@ -10,6 +10,6 @@
   "author": "Jen Andre <jandre@gmail.com>",
   "license": "GPLv3",
   "dependencies": {
-   "debug": "~0.7.2",
+   "debug": "~0.7.2"
   }
 }
