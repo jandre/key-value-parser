@@ -1,6 +1,8 @@
 # Key Value Parser
 
-Simple nodejs library to do key value parsing. 
+Simple nodejs library to do key=value parsing for lines that look like:
+
+`a=apple b=babycakes d="dog smiles"`
 
 ## Installation
 
