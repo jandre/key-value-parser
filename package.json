@@ -1,0 +1,15 @@
+{
+  "name": "key-value-parser",
+  "version": "0.1.0",
+  "description": "key value parser",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/jandre/key-value-parser.git",
+  "author": "Jen Andre <jandre@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+   "debug": "~0.7.2",
+  }
+}
