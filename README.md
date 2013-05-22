@@ -26,6 +26,9 @@ parser.on('end', function(data) {
 
 ```
 
+    $ key-value-parser (master*) $ node tests/test.js 
+    $ got: { hello: 'you', big: 'beautiful and lovely', bear: 'friend' }
+
 ### Debug logging
 
 pass in `DEBUG=key-value-parser` as an environment variable to turn on debug logging.
